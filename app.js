@@ -152,10 +152,6 @@ battle(hero, ailen4);
 battle(hero, ailen5);
 battle(hero, ailen6);
 
-/*if (ailen6.isAlive == false) {
-    alert("You have killed all ailens!")
-}*/
-
 
 
 
